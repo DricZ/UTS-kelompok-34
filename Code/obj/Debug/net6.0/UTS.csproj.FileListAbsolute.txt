@@ -34,3 +34,6 @@ C:\Users\HP-Omen\Documents\petra\GrafKom\pert1\UTS\obj\Debug\net6.0\UTS.dll
 C:\Users\HP-Omen\Documents\petra\GrafKom\pert1\UTS\obj\Debug\net6.0\ref\UTS.dll
 C:\Users\HP-Omen\Documents\petra\GrafKom\pert1\UTS\obj\Debug\net6.0\UTS.pdb
 C:\Users\HP-Omen\Documents\petra\GrafKom\pert1\UTS\obj\Debug\net6.0\UTS.genruntimeconfig.cache
+D:\TUGAS KULIAH\GrafKom\UTS\obj\Debug\net6.0\UTS.dll
+D:\TUGAS KULIAH\GrafKom\UTS\obj\Debug\net6.0\ref\UTS.dll
+D:\TUGAS KULIAH\GrafKom\UTS\obj\Debug\net6.0\UTS.pdb

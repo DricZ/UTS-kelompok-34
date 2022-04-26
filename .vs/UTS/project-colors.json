@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "340921de-c0c5-40ff-a2a1-d17c93c84e1d": {
+      "ProjectGuid": "340921de-c0c5-40ff-a2a1-d17c93c84e1d",
+      "DisplayName": "UTS",
+      "ColorIndex": 0
+    },
+    "6ba9c5bf-8a5f-4012-9854-80ea04137f28": {
+      "ProjectGuid": "6ba9c5bf-8a5f-4012-9854-80ea04137f28",
+      "DisplayName": "UTS",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
